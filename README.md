@@ -2,10 +2,6 @@
 A simple and dynamic To-Do List web app built with HTML, CSS, and JavaScript.
 
 
-# ZenDo - To-Do List App ✅
-
-A simple and interactive To-Do List web application built using **HTML, CSS, and JavaScript**.
-
 ## Features:
 - 📝 Add tasks instantly  
 - ✅ Mark tasks as completed  
